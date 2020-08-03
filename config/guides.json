@@ -398,6 +398,177 @@
           ]
         }
       ]
+    },
+    {
+      "slug": "how-to-water",
+      "title": "GROWING 101",
+      "subtitle": "WATERING",
+      "requires": [
+        {
+          "name": "Screws",
+          "icon": ""
+        }
+      ],
+      "sections": [
+        {
+          "slug": "intro",
+          "title": "INTRODUCTION",
+          "video": "/guide-watering/intro.mp4",
+          "text": [
+            "How often/When should I water? is a common question this guide answers :)",
+            "Over/under watering are the #1 mistakes growers make.",
+            "This simple 3 step checklist will make sure it doesn't happen to you!"
+          ]
+        },
+        {
+          "slug": "intro",
+          "title": "Over-watering",
+          "video": "/guide-watering/over-watering.mp4",
+          "text": [
+            "Over-watering is NOT caused by the amount but by the frequency of waterings.",
+            "Roots need to breathe, watering to frequently will drown them."
+          ]
+        },
+        {
+          "slug": "intro",
+          "title": "Under-watering",
+          "video": "/guide-watering/under-watering.mp4",
+          "text": [
+            "If the soil dries up too much, the roots can't absord moisture and nutrients, the leaves become droopy - left unattended, the plant may die.",
+            "Make sure you water properly every time by checking-out our How to Water guide."
+          ]
+        },
+        {
+          "slug": "intro",
+          "title": "Sight",
+          "video": "/guide-watering/sight.mp4",
+          "text": [
+            "Soil color is the first indicator it might be time to water.",
+            "The soil goes from dark brown (wet) to light brown (dry).",
+            "If the soil is light brown and looks dry, check the next step: touch."
+          ]
+        },
+        {
+          "slug": "intro",
+          "title": "Touch",
+          "video": "/guide-watering/touch.mp4",
+          "text": [
+            "Touch is the second indicator, you want the top-soil to be dry before watering.",
+            "Place finger in the soil 1 knuckle deep, is the soil dry?",
+            "If the top-soil is dry; perform the last check to make sure it needs watering."
+          ]
+        },
+        {
+          "slug": "intro",
+          "title": "Weight",
+          "video": "/guide-watering/weight.mp4",
+          "text": [
+            "Weight is the final indicator for a well timed watering.",
+            "Pick up the pot, it should feel light but still have a little humidity weight to it.",
+            "Too light means there's no moisture remaining and should have been watered earlier."
+          ]
+        },
+        {
+          "slug": "intro",
+          "title": "Time to water!",
+          "video": "/guide-watering/.mp4",
+          "text": [
+            "If the soil looks dry, feels dry, and the pot is light; it's time to water."
+          ]
+        },
+        {
+          "slug": "intro",
+          "title": "Why is PH important",
+          "video": "/guide-watering/ph.png",
+          "text": [
+            "Because cannabis needs a slightly acidic environment (6-7 in soil) at the roots for optimal nutrient intake, checking and adjusting PH is essential",
+            "If the pH at the roots is too high or low, the plant can’t properly absorb nutrients resulting in deficiencies..."
+          ]
+        },
+        {
+          "slug": "intro",
+          "title": "How to water",
+          "video": "/guide-watering/watering.mp4",
+          "text": [
+            "1- prepare your watering solution (follow your nutrient brand's schedule)",
+            "2- adjust the PH with PH up/down for it to be in the 6-7 range",
+            "3- Slowly pour your PH adjusted solution evenly on the surface of the pot until you see run off through the drainage holes in the bottom of the pot. Water should pool up on the surface of the soil while you’re watering and get absorbed slowly.",
+            "If the soil is too dry, water will quickly end in run off. Wait a couple minutes for the soil to absord some water and try again until the water is slowly absorbed."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "how-to-share-plant-explorer",
+      "title": "HOW TO",
+      "subtitle": "SHARE PLANT IN EXPLORER",
+      "requires": [
+        {
+          "name": "Screws",
+          "icon": ""
+        }
+      ],
+      "sections": [
+        {
+          "slug": "intro",
+          "title": "INTRODUCTION",
+          "video": "/guide-public/explorer.mp4",
+          "text": [
+            "Want to share your plant with the SGL community & have it show up in the Explorer?",
+            "You're only a few simple steps away from showing off your plant to the world!"
+          ]
+        },
+        {
+          "slug": "intro",
+          "title": "Settings",
+          "video": "/guide-public/settings.mp4",
+          "text": [
+            "Open the SGL app and go to 'settings'."
+          ]
+        },
+        {
+          "slug": "intro",
+          "title": "Plants",
+          "video": "/guide-public/plants.mp4",
+          "text": [
+            "Next, go to 'Plants'."
+          ]
+        },
+        {
+          "slug": "intro",
+          "title": "Select plant",
+          "video": "/guide-public/select.mp4",
+          "text": [
+            "Select the plant you want to share."
+          ]
+        },
+        {
+          "slug": "intro",
+          "title": "Checkbox",
+          "video": "/guide-public/public.mp4",
+          "text": [
+            "Tick the 'Make public' checkbox."
+          ]
+        },
+        {
+          "slug": "intro",
+          "title": "Save changes",
+          "video": "/guide-public/update.mp4",
+          "text": [
+            "Press the 'update' button.",
+            "If the confirmation message pops up; you're all set!"
+          ]
+        },
+        {
+          "slug": "intro",
+          "title": "Done!",
+          "video": "/guide-public/explorer.mp4",
+          "text": [
+            "Sweet! Your plant has now joined all the others in the Explorer tab :)",
+            "The Explorer is organized by most recently updated plants being on top."
+          ]
+        }
+      ]
     }
   ]
 }
